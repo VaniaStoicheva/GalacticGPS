@@ -1,0 +1,6 @@
+c:\users\1234\documents\visual studio 2015\Projects\CalacticsGPS\CalacticsGPS\bin\Debug\CalacticsGPS.exe.config
+C:\Users\1234\Documents\Visual Studio 2015\Projects\CalacticsGPS\CalacticsGPS\bin\Debug\CalacticsGPS.exe
+C:\Users\1234\Documents\Visual Studio 2015\Projects\CalacticsGPS\CalacticsGPS\bin\Debug\CalacticsGPS.pdb
+C:\Users\1234\Documents\Visual Studio 2015\Projects\CalacticsGPS\CalacticsGPS\obj\Debug\CalacticsGPS.csprojResolveAssemblyReference.cache
+C:\Users\1234\Documents\Visual Studio 2015\Projects\CalacticsGPS\CalacticsGPS\obj\Debug\CalacticsGPS.exe
+C:\Users\1234\Documents\Visual Studio 2015\Projects\CalacticsGPS\CalacticsGPS\obj\Debug\CalacticsGPS.pdb
